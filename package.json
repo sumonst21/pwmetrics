@@ -19,7 +19,7 @@
   "dependencies": {
     "@gribnoysup/wunderbar": "^2.2.1",
     "@types/node": "*",
-    "chrome-launcher": "^0.10.2",
+    "chrome-launcher": "^0.13.2",
     "google-auth-library": "^0.10.0",
     "googleapis": "^16.0.0",
     "lighthouse": "^5.2.0",
